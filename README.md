@@ -174,23 +174,6 @@ const abhishek = {
 
 ---
 
-## 🧩 Coding Profiles
-
-<div align="center">
-
-| Platform | Profile |
-|---|---|
-| LeetCode | [Visit Profile](https://leetcode.com/) |
-| CodeChef | [Visit Profile](https://www.codechef.com/) |
-| HackerRank | [Visit Profile](https://www.hackerrank.com/) |
-| GeeksforGeeks | [Visit Profile](https://www.geeksforgeeks.org/) |
-
-**400+ Problems Solved | Consistent Problem Solving | Continuous Learning**
-
-</div>
-
----
-
 ## 🤝 Connect With Me
 
 <div align="center">
